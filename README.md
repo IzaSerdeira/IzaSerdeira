@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IzaSerdeira
+- 👀 I’m interested in graphic design, product design, UI/UX and web design
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: https://www.linkedin.com/in/izadoraserdeira/
